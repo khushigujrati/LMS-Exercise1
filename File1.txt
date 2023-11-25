@@ -1,3 +1,3 @@
 First line added in local.
 Second line added in github master
-Third line added in local master branch.
+Third line added in local "master" branch
